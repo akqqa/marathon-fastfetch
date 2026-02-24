@@ -11,4 +11,5 @@ Then to use, run fastfetch as so:
 To auto launch add the above command to your .bashrc file.
 
 Note: These were designed with the default ghostty terminal in mind. Other terminals may have different aspect ratios for the ascii.
+
 To generate your own ascii at custom aspect ratios, use the Image2ASCII program I wrote here: https://github.com/akqqa/cpp_practice/tree/main/Image2ASCII
