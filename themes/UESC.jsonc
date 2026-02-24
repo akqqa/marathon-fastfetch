@@ -19,7 +19,7 @@
   ],
   "logo": {
     "type": "file",
-    "source": "/home/akqa/.config/fastfetch/ascii/UESC.txt",
+    "source": "~/.config/fastfetch/ascii/UESC.txt",
     "color": {
       "1": "38;2;30;107;243"
     }

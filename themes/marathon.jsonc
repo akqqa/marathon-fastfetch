@@ -19,7 +19,7 @@
   ],
   "logo": {
     "type": "file",
-    "source": "/home/akqa/.config/fastfetch/ascii/marathon.txt",
+    "source": "~/.config/fastfetch/ascii/marathon.txt",
     "color": {
       "1": "38;2;195;254;12"
     }

@@ -19,7 +19,7 @@
   ],
   "logo": {
     "type": "file",
-    "source": "/home/akqa/.config/fastfetch/ascii/MIDA.txt",
+    "source": "~/.config/fastfetch/ascii/MIDA.txt",
     "color": {
       "1": "38;2;144;223;230"
     }

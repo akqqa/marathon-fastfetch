@@ -19,7 +19,7 @@
   ],
   "logo": {
     "type": "file",
-    "source": "/home/akqa/.config/fastfetch/ascii/arachne.txt",
+    "source": "~/.config/fastfetch/ascii/arachne.txt",
     "color": {
       "1": "38;2;255;1;1"
     }

@@ -19,7 +19,7 @@
   ],
   "logo": {
     "type": "file",
-    "source": "/home/akqa/.config/fastfetch/ascii/sekiguchi.txt",
+    "source": "~/.config/fastfetch/ascii/sekiguchi.txt",
     "color": {
       "1": "38;2;149;246;195"
     }

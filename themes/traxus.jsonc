@@ -19,7 +19,7 @@
   ],
   "logo": {
     "type": "file",
-    "source": "/home/akqa/.config/fastfetch/ascii/traxus.txt",
+    "source": "~/.config/fastfetch/ascii/traxus.txt",
     "color": {
       "1": "38;2;255;118;0"
     }
