@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "break",
+    "colors"
+  ],
+  "logo": {
+    "type": "file",
+    "source": "/home/akqa/.config/fastfetch/ascii/marathon.txt",
+    "color": {
+      "1": "38;2;195;254;12"
+    }
+  },
+  "display": {
+    "color": {
+      "title": "38;2;195;254;12",
+      "keys": "38;2;195;254;12"
+    }
+  }
+}
