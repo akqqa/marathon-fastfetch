@@ -4,7 +4,7 @@ This repo contains a collection of marathon-based fastfetch themes.
 
 # Installation Instructions
 
-1. Extract the folders ```ascii``` and ```themes``` to the appropriate ```fastfetch``` directory. For example ```~/.config/fastfetch/``` on Arch or ```/usr/share/fastfetch/``` on CachyOS.
+1. Extract the folders ```ascii``` and ```themes``` to an appropriate directory. For example ```~/.config/fastfetch/``` or ```/usr/share/fastfetch/```.
 
 2. In ```themes```, edit the .jsonc file you want to use and make sure the ```logo: source:``` attribute is edited to reflect the absolute path to the correct .txt file in the ```ascii``` folder.
 
